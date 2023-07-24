@@ -11,8 +11,8 @@ owobot_delay=[2,4]
 client=discord.Client()
 class bot:
   owoid=408785106942164992
-  channel=id of the channel here
-  token=" user token here "
+  channel=1130863121565749288
+  token="MTAzMDQ2NzYyMjk4ODQzNTU4OA.GCD_Fa.HC_8kz7JI_JxiYjOd0fz1BInOaxbjWzEeKqAT8"
   commands=[
     "owo hunt",
     "owo battle"
